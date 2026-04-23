@@ -12,3 +12,11 @@
 
 
 # credits to nobonet for the engine
+He made this amazing engine, props to him for making this possible
+
+# Notes:
+Marios anims are not included, so you have to get them yourself.
+
+No copyrighted sounds are included
+
+Have fun!
